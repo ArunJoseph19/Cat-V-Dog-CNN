@@ -1,2 +1,3 @@
-# Cat-V-Dog-CNN
+# Cats & Dogs CNN Classifer
 #Project-0
+
