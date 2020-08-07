@@ -9,6 +9,8 @@ Flask has been implemented, therefor you can run this project on 'http://localho
 
 This project has been done according to the [Udemy course](https://www.udemy.com/course/machinelearning/).
 
+For the whole dataset click [here](https://drive.google.com/drive/folders/1XlLKGzRmhF3XG3AqTe5OtAKuwgP1Sc06?usp=sharing)
+
 For more and to stay updated on upcoming projects, follow me at:<br />
 [Github](https://github.com/ArunJoseph19/) <br />
 [LinkedIn](https://www.linkedin.com/in/arun-josephraj-0064a7157)<br />
